@@ -6,7 +6,6 @@ FD\_25734\_ Remnant devaluation table
 
 ![](.gitbook/assets/0%20%281%29.png)
 
-![]https://github.com/VaibhavBansal000/CMATESTDOC/blob/main/.gitbook/assets/0%20(1).png
 
 ## Document Owners
 
